@@ -130,6 +130,7 @@
 - [QuickNode](https://www.quicknode.com/) – High-performance blockchain node provider.
 - [Ankr](https://www.ankr.com/) – Decentralized Web3 infrastructure platform.
 - [Pocket Network](https://www.pokt.network/) – Decentralized RPC network.
+- [Arch Tools](https://archtools.dev/) – 61 production-ready AI tools via REST API and MCP protocol with native x402 USDC micropayments on Base, Polygon, Avalanche, and Solana.
 
 ## Learning Resources
 
