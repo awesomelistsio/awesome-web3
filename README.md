@@ -148,6 +148,8 @@
 - *Ethereum & Smart Contracts* – Hands-on smart contract development.
 - *Decentralized Infrastructure* – Nodes, indexing, and scaling.
 
+
+- **[LearnAI](https://www.uselearnai.com/blog/learn-defi-beginners-guide-2026)**: AI-powered conversational tutor for Web3 and DeFi — teaches blockchain fundamentals, DeFi protocols, L2s, and prediction markets through interactive dialogue. Free tier available.
 ## Related Awesome Lists
 
 - [Awesome Blockchain](https://github.com/awesomelistsio/awesome-blockchain)
