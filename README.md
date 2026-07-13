@@ -138,8 +138,8 @@
 - [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/) – Official documentation for Ethereum development.
 - [Web3 University](https://www.web3.university/) – Educational content for Web3 developers.
 - [Buildspace](https://buildspace.so/) – Project-based Web3 learning platform.
-- [Web3 Event Analytics: The Complete Guide to Analytics & Attribution for Crypto and DeFi](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) – Guide to onchain and offchain event analytics and attribution.
-- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://formo.so/blog/web3-attribution-onchain-attribution-system) – How to build an onchain attribution system.
+- [Web3 Analytics Guide](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) – Guide to onchain and offchain event analytics and attribution.
+- [What is Web3 Attribution?](https://formo.so/blog/web3-attribution-onchain-attribution-system) – How to build an onchain attribution system.
 
 ### Guides
 - [Web3 Architecture](https://ethereum.org/en/web3/) – Overview of decentralized application architecture.
