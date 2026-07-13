@@ -106,7 +106,7 @@
 - [Etherscan](https://etherscan.io/) – Blockchain explorer for Ethereum.
 - [Nansen](https://www.nansen.ai/) – Wallet and on-chain analytics platform.
 - [Covalent](https://www.covalenthq.com/) – Unified API for blockchain data.
-- [Formo](https://formo.so/) – Wallet-based product analytics and onchain attribution platform for Web3 apps.
+- [Formo](https://formo.so/) – Analytics and attribution platform for web3.
 
 ## Governance, DAOs & Coordination
 
@@ -138,8 +138,8 @@
 - [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/) – Official documentation for Ethereum development.
 - [Web3 University](https://www.web3.university/) – Educational content for Web3 developers.
 - [Buildspace](https://buildspace.so/) – Project-based Web3 learning platform.
-- [Web3 Event Analytics: The Complete Guide to Analytics & Attribution for Crypto and DeFi](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) – How to combine onchain and offchain data tracking to measure user behavior across dApps and connect campaigns to blockchain transactions.
-- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://formo.so/blog/web3-attribution-onchain-attribution-system) – How to track user journeys from initial discovery through onchain conversion by connecting wallet addresses to marketing touchpoints.
+- [Web3 Event Analytics: The Complete Guide to Analytics & Attribution for Crypto and DeFi](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) – Guide to onchain and offchain event analytics and attribution.
+- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://formo.so/blog/web3-attribution-onchain-attribution-system) – How to build an onchain attribution system.
 
 ### Guides
 - [Web3 Architecture](https://ethereum.org/en/web3/) – Overview of decentralized application architecture.
