@@ -106,6 +106,7 @@
 - [Etherscan](https://etherscan.io/) – Blockchain explorer for Ethereum.
 - [Nansen](https://www.nansen.ai/) – Wallet and on-chain analytics platform.
 - [Covalent](https://www.covalenthq.com/) – Unified API for blockchain data.
+- [Formo Analytics](https://formo.so/) – Product and on-chain analytics for Web3 apps, including wallet profiles, funnels, retention, revenue, and SQL.
 
 ## Governance, DAOs & Coordination
 
