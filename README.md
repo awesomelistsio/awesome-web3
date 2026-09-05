@@ -1,4 +1,4 @@
-# Awesome Web3 [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Web3 [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -150,11 +150,11 @@
 
 ## Related Awesome Lists
 
-- [Awesome Blockchain](https://github.com/awesomelistsio/awesome-blockchain)
-- [Awesome DeFi](https://github.com/awesomelistsio/awesome-defi)
-- [Awesome Crypto](https://github.com/awesomelistsio/awesome-cryptocurrency)
-- [Awesome FinTech](https://github.com/awesomelistsio/awesome-fintech)
-- [Awesome Payments](https://github.com/awesomelistsio/awesome-payments)
+- [Awesome Blockchain](https://github.com/brandonhimpfen/awesome-blockchain)
+- [Awesome DeFi](https://github.com/brandonhimpfen/awesome-defi)
+- [Awesome Crypto](https://github.com/brandonhimpfen/awesome-cryptocurrency)
+- [Awesome FinTech](https://github.com/brandonhimpfen/awesome-fintech)
+- [Awesome Payments](https://github.com/brandonhimpfen/awesome-payments)
 
 ## Contribute
 
